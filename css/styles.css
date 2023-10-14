@@ -1,3 +1,14 @@
 body {
   background-color: rgb(235, 230, 230);
 }
+
+img {
+  display: block;
+  max-width: 230px;
+  max-height: 150px;
+  width: auto;
+  height: auto;
+
+  border: 1px rgb(235, 230, 230);
+  border-radius: 15px;
+}
